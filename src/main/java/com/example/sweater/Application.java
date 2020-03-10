@@ -1,5 +1,7 @@
 package com.example.sweater;
 
+import com.example.sweater.domain.Role;
+import com.example.sweater.domain.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
